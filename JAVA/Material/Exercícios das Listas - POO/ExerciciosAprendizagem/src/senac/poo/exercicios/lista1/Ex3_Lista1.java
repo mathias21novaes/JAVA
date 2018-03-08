@@ -1,4 +1,4 @@
-package senac.poo.exercicios;
+package senac.poo.exercicios.lista1;
 
 public class Ex3_Lista1 {
     

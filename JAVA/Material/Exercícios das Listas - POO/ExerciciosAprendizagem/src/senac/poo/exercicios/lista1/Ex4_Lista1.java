@@ -1,4 +1,4 @@
-package senac.poo.exercicios;
+package senac.poo.exercicios.lista1;
 import java.util.Scanner;
 
 public class Ex4_Lista1 {
