@@ -12,8 +12,12 @@ public class Programa_Carro {
         corsa.quant_portas = 2;
         
         corsa.mostrarCaracteristicas();
-        corsa.fecharPortas(false);
+        corsa.fecharPortas(true);
         corsa.ligarCarro();
-        
+        corsa.acelerarCarro(20);
+        corsa.acelerarCarro(15);
+        corsa.desacelerarCarro(50);
+        corsa.desacelerarCarro(50);
+        corsa.desligarCarro(false);
     }
 }
