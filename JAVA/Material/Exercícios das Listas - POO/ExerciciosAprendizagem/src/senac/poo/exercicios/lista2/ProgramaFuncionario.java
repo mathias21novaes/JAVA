@@ -1,4 +1,4 @@
-package senac.poo.exercicios.lista2.Ex3_Lista2;
+package senac.poo.exercicios.lista2;
 
 public class ProgramaFuncionario {
     

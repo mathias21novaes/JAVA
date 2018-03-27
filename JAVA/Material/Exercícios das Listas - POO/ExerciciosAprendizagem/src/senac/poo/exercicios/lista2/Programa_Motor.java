@@ -1,4 +1,4 @@
-package senac.poo.exercicios.lista2.Ex1_Lista2;
+package senac.poo.exercicios.lista2;
 
 public class Programa_Motor {
     
