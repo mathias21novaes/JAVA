@@ -1,10 +1,9 @@
-
 package senac.poo.ado1;
-
 
 public class Logaritmo {
     
     public static double calculo(double num){
+        
         num = num-1;
         double valor = 0;
 	double potencia = 0;
